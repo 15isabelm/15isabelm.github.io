@@ -1,34 +1,46 @@
 {
-	"movies": [
+	"reviews": [
 		{
 			"Coffee Shop": "Cafenated",
 			"Cost": "$$$",
 			"Rating": "3.5/5",
-			"Notes": "Nice garden, but too expensive."
+			"Notes (aka my unnecessary opinions)": "Nice outdoor garden space, but too expensive."
 		},
 		{
 			"Coffee Shop": "Cole Coffee",
 			"Cost": "$",
 			"Rating": "4/5",
-			"Notes": "Technically no wifi, but you can steal wifi from across the street."
+			"Notes (aka my unnecessary opinions)": "Technically no wifi, but you can steal wifi from across the street."
 		},
 		{
 			"Coffee Shop": "Cheeseboard",
-			"Cost": "$",
+			"Cost": "$$",
 			"Rating": "4/5",
-			"Notes": "Coffee is suprisingly inexpensive. Pastries are suprisingly dry."
+			"Notes (aka my unnecessary opinions)": "Coffee is suprisingly inexpensive. Pastries are suprisingly dry."
 		},
 		{
 			"Coffee Shop": "Philz",
 			"Cost": "$$",
 			"Rating": "1000/5",
-			"Notes": "Best cold brew. Best vibes. Mocha is hit-or-miss."
+			"Notes (aka my unnecessary opinions)": "Best cold brew. And best coffee shop in the Bay Area."
 		},
 		{
 			"Coffee Shop": "Victory Point Cafe",
 			"Cost": "$$$",
 			"Rating": "4/5",
-			"Notes": "Iced latte doesn't have enough ice. Open late."
+			"Notes (aka my unnecessary opinions)": "Iced latte has a single ice cube. But it's open late to fuel my nocturnal study habits."
+		},
+		{
+			"Coffee Shop": "Berkeley Espresso",
+			"Cost": "$",
+			"Rating": "3.5/5",
+			"Notes (aka my unnecessary opinions)": "Eh. It does the job."
+		},
+		{
+			"Coffee Shop": "Sodoi Tasting House",
+			"Cost": "$$",
+			"Rating": "4/5",
+			"Notes (aka my unnecessary opinions)": "Coffee has good flavor."
 		}
 	]
 }
